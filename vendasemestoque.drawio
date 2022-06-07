@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-07T16:13:37.277Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="8KZTTV0BHc2YCV-S2fUp" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-07T19:28:13.982Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="OoQjCRx6Nk3xPP6gptSQ" version="19.0.0" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="610" dy="310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="610" dy="352" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,9 +20,9 @@
           <mxGeometry x="50" y="120" width="10" height="170" as="geometry" />
         </mxCell>
         <mxCell id="4xwUGQLQeTpRIHx0-2DB-11" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-1" vertex="1">
-          <mxGeometry x="50" y="360" width="10" height="100" as="geometry" />
+          <mxGeometry x="50" y="360" width="10" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="lhS4QoThq6orm3_5Lqhh-11" value="PATCH /baskets/{{cnBasketID}}" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.242;exitY=0.021;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="3nuBFxr9cyL0pnOWT2aG-1" source="3nuBFxr9cyL0pnOWT2aG-2">
+        <mxCell id="lhS4QoThq6orm3_5Lqhh-11" value="PATCH /baskets/{{_cnBasketID}}" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.242;exitY=0.021;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="3nuBFxr9cyL0pnOWT2aG-1" source="3nuBFxr9cyL0pnOWT2aG-2">
           <mxGeometry x="-0.018" relative="1" as="geometry">
             <mxPoint x="60" y="100" as="sourcePoint" />
             <mxPoint x="250" y="80" as="targetPoint" />
@@ -43,6 +43,20 @@
         </mxCell>
         <mxCell id="4xwUGQLQeTpRIHx0-2DB-2" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="4xwUGQLQeTpRIHx0-2DB-1" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="lhS4QoThq6orm3_5Lqhh-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="4xwUGQLQeTpRIHx0-2DB-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-330.03" y="449.67999999999984" as="sourcePoint" />
+            <mxPoint x="44.97000000000003" y="449.68000000000006" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="44.97000000000003" y="449.67999999999995" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lhS4QoThq6orm3_5Lqhh-20" value="PUT /baskets/{{_cfBasketID}}/customer" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lhS4QoThq6orm3_5Lqhh-19">
+          <mxGeometry x="0.1539" relative="1" as="geometry">
+            <mxPoint x="-36" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="4xwUGQLQeTpRIHx0-2DB-3" value="orderCnToCF === true&lt;br&gt;c_natg_selectedCN === {{cnID}}" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry x="0.0409" y="20" relative="1" as="geometry">
@@ -65,7 +79,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4xwUGQLQeTpRIHx0-2DB-5" value="{{guestBasketID}}" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4xwUGQLQeTpRIHx0-2DB-2" edge="1">
+        <mxCell id="4xwUGQLQeTpRIHx0-2DB-5" value="{{_cfBasketID}}" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4xwUGQLQeTpRIHx0-2DB-2" edge="1">
           <mxGeometry x="-0.016" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="179" y="270" />
@@ -74,7 +88,7 @@
             <mxPoint x="179" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4xwUGQLQeTpRIHx0-2DB-6" value="POST&amp;nbsp;/baskets/{{guestBasketID}}/items" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.1;entryY=0.367;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="4xwUGQLQeTpRIHx0-2DB-2">
+        <mxCell id="4xwUGQLQeTpRIHx0-2DB-6" value="POST&amp;nbsp;/baskets/{{_cfBasketID}}/items" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.1;entryY=0.367;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="4xwUGQLQeTpRIHx0-2DB-2">
           <mxGeometry x="0.0134" y="1" relative="1" as="geometry">
             <mxPoint x="181" y="351" as="sourcePoint" />
             <mxPoint x="555" y="312" as="targetPoint" />
@@ -132,7 +146,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lhS4QoThq6orm3_5Lqhh-9" value="orderCnToCF === true&lt;br&gt;c_natg_selectedCN === {{cnID}}&lt;br&gt;PATCH /baskets/{{guestBasketID}}" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="lhS4QoThq6orm3_5Lqhh-9" value="orderCnToCF === true&lt;br&gt;c_natg_selectedCN === {{cnID}}&lt;br&gt;PATCH /baskets/{{_cfBasketID}}" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry x="-0.0501" y="20" relative="1" as="geometry">
             <mxPoint x="180" y="330" as="sourcePoint" />
             <mxPoint x="369.4999999999999" y="330" as="targetPoint" />
@@ -159,6 +173,61 @@
         <mxCell id="lhS4QoThq6orm3_5Lqhh-13" value="{{filteredCNAddresses}" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lhS4QoThq6orm3_5Lqhh-12">
           <mxGeometry x="-0.2852" y="1" relative="1" as="geometry">
             <mxPoint x="-21" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lhS4QoThq6orm3_5Lqhh-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4xwUGQLQeTpRIHx0-2DB-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="555" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="555" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lhS4QoThq6orm3_5Lqhh-16" value="PUT /baskets/{{_cfBasketID}}/billing_address" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lhS4QoThq6orm3_5Lqhh-15">
+          <mxGeometry x="0.1539" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lhS4QoThq6orm3_5Lqhh-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="499.9999999999999" as="sourcePoint" />
+            <mxPoint x="555" y="500.0000000000001" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="555" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lhS4QoThq6orm3_5Lqhh-18" value="PUT /baskets/{{_cfBasketID}}/shipments/me/shipping_method" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lhS4QoThq6orm3_5Lqhh-17">
+          <mxGeometry x="0.1539" relative="1" as="geometry">
+            <mxPoint x="-36" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lhS4QoThq6orm3_5Lqhh-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180.00000000000003" y="559.9999999999999" as="sourcePoint" />
+            <mxPoint x="555" y="560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="555" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lhS4QoThq6orm3_5Lqhh-22" value="PATCH&amp;nbsp;/baskets/{{_cfBasketID}}/shipments/me" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lhS4QoThq6orm3_5Lqhh-21">
+          <mxGeometry x="0.1539" relative="1" as="geometry">
+            <mxPoint x="-36" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lhS4QoThq6orm3_5Lqhh-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="589.9999999999999" as="sourcePoint" />
+            <mxPoint x="555" y="590.0000000000001" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="555" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lhS4QoThq6orm3_5Lqhh-24" value="PATCH&amp;nbsp;/baskets/{{_cfBasketID}}" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lhS4QoThq6orm3_5Lqhh-23">
+          <mxGeometry x="0.1539" relative="1" as="geometry">
+            <mxPoint x="-36" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
