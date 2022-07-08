@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-08T16:49:14.083Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="yiaJbk6XZc8UINJX5vPf" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-08T16:51:05.655Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="myUZAAptks3BHiASkbj9" version="20.0.4" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="2352" dy="399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4619" dy="1698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -378,14 +378,11 @@
         <mxCell id="weExqB_nzbaYjORjGd64-116" value="PAGAMENTO" style="swimlane;fontSize=14;fontColor=#000000;strokeWidth=4;fillColor=#3399FF;dashed=1;strokeColor=#3399FF;" vertex="1" parent="1">
           <mxGeometry x="-205" y="697" width="1287" height="2310" as="geometry" />
         </mxCell>
-        <mxCell id="weExqB_nzbaYjORjGd64-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=default;fontSize=14;fontColor=#000000;endArrow=block;endFill=1;endSize=8;strokeWidth=3;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1260" y="1669.9999999999995" as="sourcePoint" />
-            <mxPoint x="1260" y="1699.9999999999995" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="weExqB_nzbaYjORjGd64-118" value="POST PROCESSING" style="swimlane;fontSize=14;fontColor=#000000;strokeWidth=4;fillColor=#FF8000;dashed=1;strokeColor=#FF8000;" vertex="1" parent="1">
           <mxGeometry x="1088" y="697" width="2082" height="2310" as="geometry" />
+        </mxCell>
+        <mxCell id="weExqB_nzbaYjORjGd64-119" value="Malha Omni" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=41;fontColor=#000000;labelPosition=center;verticalLabelPosition=middle;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-990" y="610" width="244" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
