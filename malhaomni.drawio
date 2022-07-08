@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-08T16:54:56.989Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="twaF-tqiNFHNpy_qqxzr" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-08T16:55:06.994Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="iOk3Zjm3h2JLBxaElesN" version="20.0.4" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="4290" dy="1509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -307,7 +307,7 @@
         <mxCell id="weExqB_nzbaYjORjGd64-41" value="TELA DE PAGAMENTO&lt;br&gt;[ERRO]" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;fillColor=#EA6B66;strokeColor=default;strokeWidth=2;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="887.2" y="910.8229545454544" width="170.37" height="53.11" as="geometry" />
         </mxCell>
-        <mxCell id="weExqB_nzbaYjORjGd64-43" value="PEDIDO FINALIZADO" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;fillColor=#3399FF;strokeColor=default;strokeWidth=2;fontSize=14;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="weExqB_nzbaYjORjGd64-43" value="PEDIDO FINALIZADO" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;fillColor=#00994D;strokeColor=default;strokeWidth=2;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="667.773498542274" y="937.3281818181817" width="170.365889212828" height="26.604772727272724" as="geometry" />
         </mxCell>
         <mxCell id="weExqB_nzbaYjORjGd64-60" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;fontSize=14;fontColor=#000000;endArrow=block;endFill=1;endSize=8;strokeWidth=3;" edge="1" parent="1" source="weExqB_nzbaYjORjGd64-47" target="weExqB_nzbaYjORjGd64-49">
