@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-08T17:33:33.638Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="yl-mJVJC9LIki12QAIsw" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-08T18:16:13.178Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36" etag="zJO-kbqtoES0qlJBNRET" version="20.0.4" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="2047" dy="131" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="7130" dy="3315" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -110,8 +110,8 @@
         <mxCell id="UH4h_3Y_hmDIXnIcrMvg-36" value="FRONTEND" style="swimlane;horizontal=0;labelBackgroundColor=none;fillColor=#3399FF;fontColor=#FFFFFF;strokeColor=default;strokeWidth=1;fontSize=24;perimeterSpacing=1;swimlaneLine=0;rounded=1;startSize=62;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="-984" y="724.49" width="4334" height="292.65" as="geometry" />
         </mxCell>
-        <mxCell id="UH4h_3Y_hmDIXnIcrMvg-58" value="TELA DE ENTREGA" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;fillColor=#CCE5FF;strokeColor=default;strokeWidth=2;fontSize=14;fontStyle=1;" parent="UH4h_3Y_hmDIXnIcrMvg-36" vertex="1">
-          <mxGeometry x="164.09475218658892" y="212.8381818181817" width="170.365889212828" height="26.604772727272724" as="geometry" />
+        <mxCell id="UH4h_3Y_hmDIXnIcrMvg-58" value="TELA DE ENTREGA&lt;br&gt;[Seleciona Endereço]" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;fillColor=#CCE5FF;strokeColor=default;strokeWidth=2;fontSize=14;fontStyle=1;" parent="UH4h_3Y_hmDIXnIcrMvg-36" vertex="1">
+          <mxGeometry x="164.09" y="180" width="170.37" height="59.44" as="geometry" />
         </mxCell>
         <mxCell id="UH4h_3Y_hmDIXnIcrMvg-68" value="TELA DE ENTREGA&lt;br&gt;[Seleciona Método]" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;fillColor=#CCE5FF;strokeColor=default;strokeWidth=2;fontSize=14;fontStyle=1;" parent="UH4h_3Y_hmDIXnIcrMvg-36" vertex="1">
           <mxGeometry x="532.0014577259475" y="177.68282517045444" width="170.365889212828" height="61.760129375" as="geometry" />
@@ -132,7 +132,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UH4h_3Y_hmDIXnIcrMvg-71" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#ffffff;align=center;fillColor=#0000FF;strokeColor=default;strokeWidth=2;fontStyle=1;" parent="UH4h_3Y_hmDIXnIcrMvg-54" vertex="1">
+        <mxCell id="UH4h_3Y_hmDIXnIcrMvg-71" value="submit_shipping" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#ffffff;align=center;fillColor=#0000FF;strokeColor=default;strokeWidth=2;fontStyle=1;" parent="UH4h_3Y_hmDIXnIcrMvg-54" vertex="1">
           <mxGeometry x="169.3206997084548" y="44.97347551136363" width="159.9139941690962" height="31.925727272727272" as="geometry" />
         </mxCell>
         <mxCell id="UH4h_3Y_hmDIXnIcrMvg-72" value="shipping_method" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#ffffff;align=center;fillColor=#0000FF;strokeColor=default;strokeWidth=2;fontStyle=1;" parent="UH4h_3Y_hmDIXnIcrMvg-54" vertex="1">
@@ -141,7 +141,7 @@
         <mxCell id="weExqB_nzbaYjORjGd64-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;endArrow=block;endFill=1;endSize=8;strokeWidth=3;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="UH4h_3Y_hmDIXnIcrMvg-54" source="weExqB_nzbaYjORjGd64-5" target="weExqB_nzbaYjORjGd64-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="weExqB_nzbaYjORjGd64-5" value="place_order" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#ffffff;align=center;fillColor=#0000FF;strokeColor=default;strokeWidth=2;fontStyle=1;" vertex="1" parent="UH4h_3Y_hmDIXnIcrMvg-54">
+        <mxCell id="weExqB_nzbaYjORjGd64-5" value="submit_payment" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#ffffff;align=center;fillColor=#0000FF;strokeColor=default;strokeWidth=2;fontStyle=1;" vertex="1" parent="UH4h_3Y_hmDIXnIcrMvg-54">
           <mxGeometry x="851.8294460641399" y="78.39191301136363" width="159.9139941690962" height="31.925727272727272" as="geometry" />
         </mxCell>
         <mxCell id="weExqB_nzbaYjORjGd64-11" value="Método OMNI?" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#ffffff;fillColor=#e51400;strokeColor=default;strokeWidth=2;fontSize=14;fontStyle=1;rounded=1;" vertex="1" parent="UH4h_3Y_hmDIXnIcrMvg-54">
@@ -155,8 +155,8 @@
             <mxPoint x="1055.6413994169097" y="68.22508914772772" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="weExqB_nzbaYjORjGd64-56" value="OMNI habilitado,&lt;br&gt;UF na lista, &lt;br&gt;endereço sem lat/lon?" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#ffffff;fillColor=#e51400;strokeColor=default;strokeWidth=2;fontSize=14;fontStyle=1;rounded=1;" vertex="1" parent="UH4h_3Y_hmDIXnIcrMvg-54">
-          <mxGeometry x="141" y="119.2" width="217" height="130.8" as="geometry" />
+        <mxCell id="weExqB_nzbaYjORjGd64-56" value="OMNI habilitado,&lt;br&gt;UF na lista, &lt;br&gt;Endereço sem lat/lon?" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#ffffff;fillColor=#e51400;strokeColor=default;strokeWidth=2;fontSize=14;fontStyle=1;rounded=1;" vertex="1" parent="UH4h_3Y_hmDIXnIcrMvg-54">
+          <mxGeometry x="141" y="119.2" width="217" height="173.8" as="geometry" />
         </mxCell>
         <mxCell id="weExqB_nzbaYjORjGd64-68" value="ENVIO FATURAMENTO ERP" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#ffffff;align=center;fillColor=#0000FF;strokeColor=default;strokeWidth=2;fontStyle=1;" vertex="1" parent="UH4h_3Y_hmDIXnIcrMvg-54">
           <mxGeometry x="2634" y="170" width="159.91" height="51.13" as="geometry" />
@@ -298,7 +298,7 @@
         <mxCell id="weExqB_nzbaYjORjGd64-31" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=24;fontColor=#000000;endArrow=block;endFill=1;endSize=8;strokeWidth=3;" edge="1" parent="1" source="weExqB_nzbaYjORjGd64-29" target="weExqB_nzbaYjORjGd64-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="weExqB_nzbaYjORjGd64-29" value="order" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#ffffff;align=center;fillColor=#0000FF;strokeColor=default;strokeWidth=2;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="weExqB_nzbaYjORjGd64-29" value="submit_order" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#ffffff;align=center;fillColor=#0000FF;strokeColor=default;strokeWidth=2;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="459.9994460641399" y="1429.9969130113636" width="159.9139941690962" height="31.925727272727272" as="geometry" />
         </mxCell>
         <mxCell id="weExqB_nzbaYjORjGd64-30" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;fontColor=#000000;endArrow=block;endFill=1;endSize=8;strokeWidth=3;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="weExqB_nzbaYjORjGd64-25" target="weExqB_nzbaYjORjGd64-29">
