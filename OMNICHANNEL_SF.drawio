@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-27T13:34:31.019Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="WK_CIjhpOdu_5AGuQhCQ" version="20.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-27T14:19:37.978Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="7itOvgkx9V_Rsd0ZSDI4" version="20.3.7" type="github">
   <diagram id="8vji63VKpBlKnXmn7Ga9" name="Page-1">
-    <mxGraphModel dx="-343" dy="1938" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-1483" dy="1192" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -203,10 +203,10 @@
         <mxCell id="pm2VZgvuKRMVonqQj59v-62" value="MULESOFT" style="swimlane;horizontal=0;labelBackgroundColor=none;fillColor=#999999;fontColor=#FFFFFF;strokeColor=default;strokeWidth=1;fontSize=24;perimeterSpacing=1;swimlaneLine=0;rounded=1;startSize=62;collapsible=0;" vertex="1" parent="1">
           <mxGeometry x="3736" y="1007.1399999999999" width="4334" height="232.86" as="geometry" />
         </mxCell>
-        <mxCell id="pm2VZgvuKRMVonqQj59v-63" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#ffffff;align=center;fillColor=#999999;strokeColor=default;strokeWidth=2;fontStyle=1;" vertex="1" parent="pm2VZgvuKRMVonqQj59v-62">
+        <mxCell id="pm2VZgvuKRMVonqQj59v-63" value="/shipping/set-address/" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#ffffff;align=center;fillColor=#999999;strokeColor=default;strokeWidth=2;fontStyle=1;" vertex="1" parent="pm2VZgvuKRMVonqQj59v-62">
           <mxGeometry x="169.3206997084548" y="125.42535051136362" width="159.9139941690962" height="31.925727272727272" as="geometry" />
         </mxCell>
-        <mxCell id="pm2VZgvuKRMVonqQj59v-64" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#ffffff;align=center;fillColor=#999999;strokeColor=default;strokeWidth=2;fontStyle=1;" vertex="1" parent="pm2VZgvuKRMVonqQj59v-62">
+        <mxCell id="pm2VZgvuKRMVonqQj59v-64" value="/shipping/set-method/basket/" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#ffffff;align=center;fillColor=#999999;strokeColor=default;strokeWidth=2;fontStyle=1;" vertex="1" parent="pm2VZgvuKRMVonqQj59v-62">
           <mxGeometry x="537.2274052478134" y="125.42535051136362" width="159.9139941690962" height="31.925727272727272" as="geometry" />
         </mxCell>
         <mxCell id="pm2VZgvuKRMVonqQj59v-65" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#ffffff;align=center;fillColor=#999999;strokeColor=default;strokeWidth=2;fontStyle=1;" vertex="1" parent="pm2VZgvuKRMVonqQj59v-62">
