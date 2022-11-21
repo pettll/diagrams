@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-21T15:09:33.088Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="T77rZnx7ljAyBb7uAeeB" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-21T15:09:42.469Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="ed_XWQmoujtmSONHJrVS" version="20.5.3" type="github">
   <diagram id="8vji63VKpBlKnXmn7Ga9" name="Page-1">
     <mxGraphModel dx="1472" dy="2570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -335,7 +335,7 @@
         <mxCell id="pm2VZgvuKRMVonqQj59v-101" value="POST PROCESSING" style="swimlane;fontSize=22;fontColor=#000000;strokeWidth=3;fillColor=#FF8000;strokeColor=#FF8000;rounded=1;startSize=39;collapsible=0;" parent="1" vertex="1">
           <mxGeometry x="5809" y="673" width="2082" height="2117" as="geometry" />
         </mxCell>
-        <mxCell id="pm2VZgvuKRMVonqQj59v-102" value="Malha Omni v2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=58;fontColor=#000000;labelPosition=center;verticalLabelPosition=middle;fontStyle=1;strokeWidth=3;" parent="1" vertex="1">
+        <mxCell id="pm2VZgvuKRMVonqQj59v-102" value="Malha Omni v4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=58;fontColor=#000000;labelPosition=center;verticalLabelPosition=middle;fontStyle=1;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="3080" y="600" width="564" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dJPUFlhRoXhVeQqTZfFK-1" value="search_stores" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;fontColor=#ffffff;align=center;fillColor=#FF8000;strokeColor=default;strokeWidth=3;fontStyle=1;" parent="1" vertex="1">
