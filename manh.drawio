@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-19T14:47:12.264Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="-Z6QhZDwN_lKCIIJ3tWA" version="24.4.10" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-19T14:53:30.354Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="tYwoa3enqCfzYkcsTt1F" version="24.4.10" type="github" pages="3">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="SFCC 1">
     <mxGraphModel dx="1789" dy="1258" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -309,7 +309,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Inventory" id="29azxf-91axWboeiI00H">
-    <mxGraphModel dx="4107" dy="2307" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3014" dy="1538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WsBhhAiXHpFSby34a5le-0" />
         <mxCell id="WsBhhAiXHpFSby34a5le-1" parent="WsBhhAiXHpFSby34a5le-0" />
@@ -660,19 +660,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RJcKcVQgEojCjilAR7lq-328" value="" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#666666;strokeWidth=2;dashed=0;rounded=1;arcSize=5;recursiveResize=0;html=1;whiteSpace=wrap;" vertex="1" parent="RJcKcVQgEojCjilAR7lq-221">
-          <mxGeometry x="830" y="70" width="150" height="250" as="geometry" />
+          <mxGeometry x="845" y="70" width="150" height="250" as="geometry" />
         </mxCell>
         <mxCell id="RJcKcVQgEojCjilAR7lq-349" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#1A1A1A;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.gear" vertex="1" parent="RJcKcVQgEojCjilAR7lq-221">
-          <mxGeometry x="840" y="60" width="45" height="45" as="geometry" />
+          <mxGeometry x="857" y="60" width="45" height="45" as="geometry" />
         </mxCell>
         <mxCell id="RJcKcVQgEojCjilAR7lq-351" value="Invetory&lt;div&gt;Replication&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="RJcKcVQgEojCjilAR7lq-221">
-          <mxGeometry x="852.5" y="120" width="105" height="50" as="geometry" />
+          <mxGeometry x="869.5" y="120" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RJcKcVQgEojCjilAR7lq-358" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fad7ac;strokeColor=#b46504;" edge="1" parent="RJcKcVQgEojCjilAR7lq-221" source="RJcKcVQgEojCjilAR7lq-225" target="RJcKcVQgEojCjilAR7lq-351">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="820" y="165" />
-              <mxPoint x="820" y="145" />
+              <mxPoint x="830" y="165" />
+              <mxPoint x="830" y="145" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -680,21 +680,21 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="613" y="110" />
-              <mxPoint x="820" y="110" />
-              <mxPoint x="820" y="145" />
+              <mxPoint x="830" y="110" />
+              <mxPoint x="830" y="145" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="RJcKcVQgEojCjilAR7lq-360" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fad7ac;strokeColor=#b46504;" edge="1" parent="RJcKcVQgEojCjilAR7lq-221" source="RJcKcVQgEojCjilAR7lq-244" target="RJcKcVQgEojCjilAR7lq-351">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="820" y="475" />
-              <mxPoint x="820" y="145" />
+              <mxPoint x="830" y="475" />
+              <mxPoint x="830" y="145" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="RJcKcVQgEojCjilAR7lq-422" value="" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#666666;strokeWidth=2;dashed=0;rounded=1;arcSize=5;recursiveResize=0;html=1;whiteSpace=wrap;" vertex="1" parent="RJcKcVQgEojCjilAR7lq-221">
-          <mxGeometry x="830" y="358" width="150" height="322" as="geometry" />
+          <mxGeometry x="845" y="358" width="150" height="322" as="geometry" />
         </mxCell>
         <mxCell id="RJcKcVQgEojCjilAR7lq-441" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#1A1A1A;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api" vertex="1" parent="RJcKcVQgEojCjilAR7lq-422">
           <mxGeometry x="10" y="-8" width="50" height="48" as="geometry" />
