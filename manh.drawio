@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-19T15:01:21.023Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="G3MPrQwTp6Tn8H9JIN1R" version="24.4.10" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-19T15:05:53.350Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="VEr0KXTPb7XAMnpI7p9S" version="24.4.10" type="github" pages="3">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="SFCC 1">
     <mxGraphModel dx="1789" dy="1258" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -309,7 +309,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Inventory" id="29azxf-91axWboeiI00H">
-    <mxGraphModel dx="3014" dy="1538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2341" dy="1065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WsBhhAiXHpFSby34a5le-0" />
         <mxCell id="WsBhhAiXHpFSby34a5le-1" parent="WsBhhAiXHpFSby34a5le-0" />
@@ -438,7 +438,7 @@
         <mxCell id="RJcKcVQgEojCjilAR7lq-414" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="RJcKcVQgEojCjilAR7lq-168" source="RJcKcVQgEojCjilAR7lq-411" target="RJcKcVQgEojCjilAR7lq-380">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RJcKcVQgEojCjilAR7lq-419" value="Search Index" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;" vertex="1" parent="RJcKcVQgEojCjilAR7lq-168">
+        <mxCell id="RJcKcVQgEojCjilAR7lq-419" value="Search Index" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;" vertex="1" parent="RJcKcVQgEojCjilAR7lq-168">
           <mxGeometry x="490" y="1070" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RJcKcVQgEojCjilAR7lq-420" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="RJcKcVQgEojCjilAR7lq-168" source="RJcKcVQgEojCjilAR7lq-389" target="RJcKcVQgEojCjilAR7lq-419">
