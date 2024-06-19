@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-19T14:24:19.546Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="MOh4C264oBvsHxOJlAjm" version="24.4.10" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-19T14:25:34.423Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="kAZzQb0C9xCTTUQSDmWC" version="24.4.10" type="github" pages="3">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="SFCC 1">
     <mxGraphModel dx="1789" dy="1258" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -407,7 +407,7 @@
           <mxGeometry x="400" y="650" width="45" height="45" as="geometry" />
         </mxCell>
         <mxCell id="RJcKcVQgEojCjilAR7lq-389" value="Search Index" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="RJcKcVQgEojCjilAR7lq-168">
-          <mxGeometry x="412.5" y="710" width="105" height="50" as="geometry" />
+          <mxGeometry x="412.5" y="730" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RJcKcVQgEojCjilAR7lq-221" value="" style="shape=mxgraph.mockup.containers.marginRect;rectMarginTop=10;strokeColor=#666666;strokeWidth=3;dashed=0;rounded=1;arcSize=5;recursiveResize=0;html=1;whiteSpace=wrap;" vertex="1" parent="WsBhhAiXHpFSby34a5le-1">
           <mxGeometry x="-770" y="40" width="1030" height="740" as="geometry" />
