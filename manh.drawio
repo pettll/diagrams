@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-19T19:12:49.871Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="gWJwvkwMxXmwrZwDderT" version="24.4.10" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-06-19T19:15:02.649Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="tgJXWmp-lgQh4kpG8uSx" version="24.4.10" type="github" pages="3">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="SFCC 1">
     <mxGraphModel dx="1789" dy="1258" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -146,7 +146,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="BFF 1" id="FpGizB0xQ1ZGqrlU3rm1">
-    <mxGraphModel dx="1968" dy="215" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1093" dy="-400" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="_ylGp7t_3Y87OHKIKdF8-0" />
         <mxCell id="_ylGp7t_3Y87OHKIKdF8-1" parent="_ylGp7t_3Y87OHKIKdF8-0" />
@@ -156,12 +156,12 @@
         <mxCell id="_ylGp7t_3Y87OHKIKdF8-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="_ylGp7t_3Y87OHKIKdF8-35" source="_ylGp7t_3Y87OHKIKdF8-44" target="_ylGp7t_3Y87OHKIKdF8-63">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="860" y="460" />
-              <mxPoint x="860" y="1010" />
+              <mxPoint x="830" y="460" />
+              <mxPoint x="830" y="1010" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_ylGp7t_3Y87OHKIKdF8-37" value="&lt;span dir=&quot;ltr&quot; class=&quot;ui-provider dgs dgt awi brb brc brd bre brf brg brh bri brj brk brl brm brn bro brp brq brr dgu dgv bru brv brw brx bry brz bsa bsb bsc bsd bse bsf bsg&quot;&gt;/availability/location/availabilitydetail&lt;/span&gt;&lt;div&gt;?view=pickup&lt;div&gt;&amp;amp;postcode=10120312&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_ylGp7t_3Y87OHKIKdF8-36">
+        <mxCell id="_ylGp7t_3Y87OHKIKdF8-37" value="&lt;span dir=&quot;ltr&quot; class=&quot;ui-provider dgs dgt awi brb brc brd bre brf brg brh bri brj brk brl brm brn bro brp brq brr dgu dgv bru brv brw brx bry brz bsa bsb bsc bsd bse bsf bsg&quot;&gt;POST /availabilitydetail&lt;/span&gt;&lt;div&gt;ViewName=same-day&lt;div&gt;OrderAttributes.PostalCode=123&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_ylGp7t_3Y87OHKIKdF8-36">
           <mxGeometry x="0.0526" y="1" relative="1" as="geometry">
             <mxPoint x="-1" y="-171" as="offset" />
           </mxGeometry>
@@ -173,8 +173,8 @@
             <mxPoint x="256.0000000000002" y="809" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_ylGp7t_3Y87OHKIKdF8-39" value="/availability/location/availabilitydetail&lt;div&gt;?postcode=10120312&lt;div&gt;&amp;amp;products=[p1,p2,...,p50]&lt;/div&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="_ylGp7t_3Y87OHKIKdF8-35" source="_ylGp7t_3Y87OHKIKdF8-44" target="_ylGp7t_3Y87OHKIKdF8-63">
-          <mxGeometry x="-0.3763" relative="1" as="geometry">
+        <mxCell id="_ylGp7t_3Y87OHKIKdF8-39" value="&lt;span style=&quot;&quot; dir=&quot;ltr&quot; class=&quot;ui-provider dgs dgt awi brb brc brd bre brf brg brh bri brj brk brl brm brn bro brp brq brr dgu dgv bru brv brw brx bry brz bsa bsb bsc bsd bse bsf bsg&quot;&gt;POST /availabilitydetail&lt;/span&gt;&lt;div style=&quot;&quot;&gt;ViewName=same-day&lt;div&gt;OrderAttributes.PostalCode=123&lt;/div&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;align=left;" edge="1" parent="_ylGp7t_3Y87OHKIKdF8-35" source="_ylGp7t_3Y87OHKIKdF8-44" target="_ylGp7t_3Y87OHKIKdF8-63">
+          <mxGeometry x="-0.374" relative="1" as="geometry">
             <mxPoint x="530" y="1040" as="targetPoint" />
             <mxPoint as="offset" />
             <Array as="points">
