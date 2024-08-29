@@ -38,7 +38,7 @@
           <mxGeometry x="600" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NcB-SdHmQlG08W69tEKi-20" value="QA" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="990" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="1050" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NcB-SdHmQlG08W69tEKi-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="NcB-SdHmQlG08W69tEKi-20" target="NcB-SdHmQlG08W69tEKi-56" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -83,7 +83,7 @@
           <mxGeometry x="600" y="360" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NcB-SdHmQlG08W69tEKi-43" value="SFCC DEV - SOM QA" style="text;html=1;align=center;verticalAlign=bottom;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="990" y="450" width="120" height="20" as="geometry" />
+          <mxGeometry x="1050" y="450" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NcB-SdHmQlG08W69tEKi-45" value="SFCC PRD - SOM PRD" style="text;html=1;align=center;verticalAlign=bottom;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="1540" y="450" width="120" height="20" as="geometry" />
