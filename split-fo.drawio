@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Page-1" id="1KglCMjbw2oa3tpBQWq3">
-    <mxGraphModel dx="2315" dy="948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2780" dy="2413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,6 +8,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l2u0IBPEadK48gB32KMM-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l2u0IBPEadK48gB32KMM-1" target="l2u0IBPEadK48gB32KMM-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l2u0IBPEadK48gB32KMM-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="l2u0IBPEadK48gB32KMM-1" target="l2u0IBPEadK48gB32KMM-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l2u0IBPEadK48gB32KMM-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="l2u0IBPEadK48gB32KMM-1" target="l2u0IBPEadK48gB32KMM-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l2u0IBPEadK48gB32KMM-1" value="Order Summary" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -55,7 +61,7 @@
         <mxCell id="l2u0IBPEadK48gB32KMM-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="l2u0IBPEadK48gB32KMM-5" target="l2u0IBPEadK48gB32KMM-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="l2u0IBPEadK48gB32KMM-5" value="Order Item 1&lt;div&gt;Red Candle&lt;/div&gt;&lt;div&gt;qty 2&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="l2u0IBPEadK48gB32KMM-5" value="Order Item 2&lt;div&gt;Red Candle&lt;/div&gt;&lt;div&gt;qty 2&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l2u0IBPEadK48gB32KMM-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="l2u0IBPEadK48gB32KMM-6" target="l2u0IBPEadK48gB32KMM-11">
@@ -70,7 +76,7 @@
         <mxCell id="l2u0IBPEadK48gB32KMM-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="l2u0IBPEadK48gB32KMM-7" target="l2u0IBPEadK48gB32KMM-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="l2u0IBPEadK48gB32KMM-7" value="Order Item 1&lt;div&gt;Red Coat&lt;/div&gt;&lt;div&gt;qty 4&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="l2u0IBPEadK48gB32KMM-7" value="Order Item 2&lt;div&gt;Red Coat&lt;/div&gt;&lt;div&gt;qty 4&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l2u0IBPEadK48gB32KMM-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="l2u0IBPEadK48gB32KMM-8" target="l2u0IBPEadK48gB32KMM-26">
@@ -97,20 +103,70 @@
         <mxCell id="l2u0IBPEadK48gB32KMM-26" value="Shipment 1&lt;div&gt;Blue Candle&lt;/div&gt;&lt;div&gt;qty 1&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="l2u0IBPEadK48gB32KMM-28" value="Group Level Cancellation" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="l2u0IBPEadK48gB32KMM-28" value="Group Level Cancellation" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-30" y="410" width="360" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="l2u0IBPEadK48gB32KMM-29" value="Group Level Cancellation" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="l2u0IBPEadK48gB32KMM-29" value="Group Level Cancellation" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="330" y="410" width="200" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="l2u0IBPEadK48gB32KMM-30" value="Line Level Cancellation" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="l2u0IBPEadK48gB32KMM-30" value="Line Level Cancellation" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="540" y="410" width="160" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="l2u0IBPEadK48gB32KMM-31" value="Line Level Cancellation" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="l2u0IBPEadK48gB32KMM-31" value="Line Level Cancellation" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="700" y="410" width="350" height="320" as="geometry" />
         </mxCell>
         <mxCell id="l2u0IBPEadK48gB32KMM-33" value="&lt;pre class=&quot;hljs&quot; style=&quot;box-sizing: border-box; display: block; overflow-x: auto; padding: 15px; color: rgba(255, 255, 255, 0.95); text-size-adjust: none; margin: 0px 32px 16px 0px; font-size: 0.75rem; white-space: pre; overflow-wrap: normal; background-color: transparent; border-radius: 2px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;code class=&quot;json&quot; style=&quot;box-sizing: border-box; font-family: Menlo, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: inherit; background-color: transparent; color: var(--text-primary-color,rgba(0, 0, 0, .9)); padding: 0px; border-radius: 2px;&quot;&gt;{&lt;br&gt;    &lt;br&gt;        &lt;span class=&quot;hljs-attr&quot; style=&quot;box-sizing: border-box;&quot;&gt;&quot;inputs&quot;&lt;/span&gt;: [{&lt;br&gt;    &lt;br&gt;            &lt;span class=&quot;hljs-attr&quot; style=&quot;box-sizing: border-box;&quot;&gt;&quot;orderItemSummaryId&quot;&lt;/span&gt;: &lt;span class=&quot;hljs-string&quot; style=&quot;box-sizing: border-box; color: rgba(var(--palette-accent1-dark,168, 0, 0),1);&quot;&gt;&quot;10uS9000004FGRxIAO&quot;&lt;/span&gt;,&lt;br&gt;    &lt;br&gt;            &lt;span class=&quot;hljs-attr&quot; style=&quot;box-sizing: border-box;&quot;&gt;&quot;orderSummaryId&quot;&lt;/span&gt;: &lt;span class=&quot;hljs-string&quot; style=&quot;box-sizing: border-box; color: rgba(var(--palette-accent1-dark,168, 0, 0),1);&quot;&gt;&quot;1OsS9000002ajdNKAQ&quot;&lt;/span&gt;,&lt;br&gt;    &lt;br&gt;            &lt;span class=&quot;hljs-attr&quot; style=&quot;box-sizing: border-box;&quot;&gt;&quot;quantity&quot;&lt;/span&gt;: 3,&lt;br&gt;    &lt;br&gt;            &lt;span class=&quot;hljs-attr&quot; style=&quot;box-sizing: border-box;&quot;&gt;&quot;cancelReason&quot;&lt;/span&gt;: &lt;span class=&quot;hljs-string&quot; style=&quot;box-sizing: border-box; color: rgba(var(--palette-accent1-dark,168, 0, 0),1);&quot;&gt;&quot;Other&quot;&lt;/span&gt;&lt;br&gt;    &lt;br&gt;        }]&lt;br&gt;    &lt;br&gt;    }&lt;/code&gt;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="420" width="490" height="290" as="geometry" />
+          <mxGeometry x="770" y="-180" width="490" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="l2u0IBPEadK48gB32KMM-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l2u0IBPEadK48gB32KMM-36" target="l2u0IBPEadK48gB32KMM-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1170" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l2u0IBPEadK48gB32KMM-36" value="Order Delivery Group 3&lt;div&gt;Bladnoch&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="320" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l2u0IBPEadK48gB32KMM-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="l2u0IBPEadK48gB32KMM-38" target="l2u0IBPEadK48gB32KMM-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l2u0IBPEadK48gB32KMM-38" value="Order Item 1&lt;div&gt;Blue Whisky&lt;/div&gt;&lt;div&gt;qty 2&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l2u0IBPEadK48gB32KMM-42" value="FO 1&lt;div&gt;&lt;div&gt;Blue Whisky&lt;/div&gt;&lt;div&gt;qty 2&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l2u0IBPEadK48gB32KMM-45" value="Line Level Cancellation" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="410" width="160" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="l2u0IBPEadK48gB32KMM-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l2u0IBPEadK48gB32KMM-49" target="l2u0IBPEadK48gB32KMM-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1360" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l2u0IBPEadK48gB32KMM-49" value="Order Delivery Group 4&lt;div&gt;Case&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="320" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l2u0IBPEadK48gB32KMM-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="l2u0IBPEadK48gB32KMM-51" target="l2u0IBPEadK48gB32KMM-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l2u0IBPEadK48gB32KMM-51" value="Order Item 1&lt;div&gt;Blue Bag&lt;/div&gt;&lt;div&gt;qty 2&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l2u0IBPEadK48gB32KMM-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="l2u0IBPEadK48gB32KMM-52" target="l2u0IBPEadK48gB32KMM-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l2u0IBPEadK48gB32KMM-52" value="FO 1&lt;div&gt;&lt;div&gt;Blue Bag&lt;/div&gt;&lt;div&gt;qty 2&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l2u0IBPEadK48gB32KMM-53" value="Group Level Cancellation" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="410" width="160" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="l2u0IBPEadK48gB32KMM-55" value="Shipment 1&lt;div&gt;Blue Bag&lt;/div&gt;&lt;div&gt;qty 1&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="l2u0IBPEadK48gB32KMM-53">
+          <mxGeometry x="30" y="230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
