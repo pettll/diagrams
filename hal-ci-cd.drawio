@@ -37,7 +37,10 @@
         <mxCell id="cCStzNTXAHTxMMz0qUy2-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cCStzNTXAHTxMMz0qUy2-9" target="cCStzNTXAHTxMMz0qUy2-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cCStzNTXAHTxMMz0qUy2-9" value="STAGING&lt;div&gt;(Partial Copy)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="ZtkrMSjn0WLHxIeyAdHW-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="cCStzNTXAHTxMMz0qUy2-9" target="cCStzNTXAHTxMMz0qUy2-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cCStzNTXAHTxMMz0qUy2-9" value="STAGING &lt;font style=&quot;font-size: 11px;&quot;&gt;PRE-PROD&lt;/font&gt;&lt;div&gt;(Partial Copy)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="860" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cCStzNTXAHTxMMz0qUy2-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cCStzNTXAHTxMMz0qUy2-10" target="cCStzNTXAHTxMMz0qUy2-13" edge="1">
