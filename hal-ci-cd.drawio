@@ -49,6 +49,14 @@
         <mxCell id="cCStzNTXAHTxMMz0qUy2-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cCStzNTXAHTxMMz0qUy2-10" target="cCStzNTXAHTxMMz0qUy2-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ZtkrMSjn0WLHxIeyAdHW-2" value="data sync" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="cCStzNTXAHTxMMz0qUy2-10" target="cCStzNTXAHTxMMz0qUy2-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="950" y="600" />
+              <mxPoint x="1100" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="cCStzNTXAHTxMMz0qUy2-10" value="STAGING" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="860" y="640" width="120" height="60" as="geometry" />
         </mxCell>
