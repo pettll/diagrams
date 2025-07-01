@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6">
   <diagram name="Page-1" id="CInHX2HHdjlW0_jvGl4y">
-    <mxGraphModel dx="2899" dy="1333" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3218" dy="1538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,12 +46,9 @@
         <mxCell id="9b5qS1_Qkax_UdxktYY2-7" value="COPY THE CHANGES TO VSCODE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9b5qS1_Qkax_UdxktYY2-26" value="DEV BRANCH REGULAR UPDATE" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="9b5qS1_Qkax_UdxktYY2-9" target="9b5qS1_Qkax_UdxktYY2-1">
-          <mxGeometry x="0.1392" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="520" y="300" />
-              <mxPoint x="-80" y="300" />
-            </Array>
+        <mxCell id="9b5qS1_Qkax_UdxktYY2-26" value="PR TO DEV" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="9b5qS1_Qkax_UdxktYY2-49" target="9b5qS1_Qkax_UdxktYY2-1">
+          <mxGeometry x="0.1364" relative="1" as="geometry">
+            <Array as="points" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -135,6 +132,24 @@
         </mxCell>
         <mxCell id="9b5qS1_Qkax_UdxktYY2-44" value="QA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1120" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9b5qS1_Qkax_UdxktYY2-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="9b5qS1_Qkax_UdxktYY2-9" target="9b5qS1_Qkax_UdxktYY2-49">
+          <mxGeometry x="0.1392" relative="1" as="geometry">
+            <mxPoint x="520" y="510" as="sourcePoint" />
+            <mxPoint x="-80" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="310" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9b5qS1_Qkax_UdxktYY2-51" value="DEV BRANCH REGULAR UPDATE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9b5qS1_Qkax_UdxktYY2-50">
+          <mxGeometry x="0.2877" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9b5qS1_Qkax_UdxktYY2-49" value="DEV RELEASE BRANCH" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
