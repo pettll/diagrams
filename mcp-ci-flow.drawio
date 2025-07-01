@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6">
   <diagram name="Page-1" id="CInHX2HHdjlW0_jvGl4y">
-    <mxGraphModel dx="2463" dy="998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2307" dy="903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="9b5qS1_Qkax_UdxktYY2-1" value="DEV" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="-140" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9b5qS1_Qkax_UdxktYY2-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9b5qS1_Qkax_UdxktYY2-2" target="9b5qS1_Qkax_UdxktYY2-3">
           <mxGeometry relative="1" as="geometry">
@@ -15,7 +15,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9b5qS1_Qkax_UdxktYY2-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9b5qS1_Qkax_UdxktYY2-2" target="9b5qS1_Qkax_UdxktYY2-22">
+        <mxCell id="9b5qS1_Qkax_UdxktYY2-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9b5qS1_Qkax_UdxktYY2-2" target="9b5qS1_Qkax_UdxktYY2-38">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="50" y="590" />
@@ -24,7 +24,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9b5qS1_Qkax_UdxktYY2-2" value="PROD/MAIN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="-140" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9b5qS1_Qkax_UdxktYY2-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9b5qS1_Qkax_UdxktYY2-3" target="9b5qS1_Qkax_UdxktYY2-5">
           <mxGeometry relative="1" as="geometry" />
@@ -47,10 +47,10 @@
           <mxGeometry x="630" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9b5qS1_Qkax_UdxktYY2-26" value="DEV BRANCH REGULAR UPDATE" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="9b5qS1_Qkax_UdxktYY2-9" target="9b5qS1_Qkax_UdxktYY2-1">
-          <mxGeometry x="0.1402" relative="1" as="geometry">
+          <mxGeometry x="0.1392" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="520" y="300" />
-              <mxPoint x="-40" y="300" />
+              <mxPoint x="-80" y="300" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -58,7 +58,7 @@
         <mxCell id="9b5qS1_Qkax_UdxktYY2-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9b5qS1_Qkax_UdxktYY2-9" target="9b5qS1_Qkax_UdxktYY2-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9b5qS1_Qkax_UdxktYY2-9" value="MANUAL UPDATE DEV SITEMAP FOR TESTS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9b5qS1_Qkax_UdxktYY2-9" value="MANUAL UPDATE DEV DATA SET SITEMAP FOR TESTS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9b5qS1_Qkax_UdxktYY2-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9b5qS1_Qkax_UdxktYY2-11" target="9b5qS1_Qkax_UdxktYY2-16">
@@ -88,17 +88,45 @@
         <mxCell id="9b5qS1_Qkax_UdxktYY2-20" value="OPEN PR TO RELEASE BRANCH" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1121" y="510" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="9b5qS1_Qkax_UdxktYY2-43" value="PR FROM RELEASE TO PROD" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9b5qS1_Qkax_UdxktYY2-22" target="9b5qS1_Qkax_UdxktYY2-2">
+          <mxGeometry x="-0.1406" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1181" y="950" />
+              <mxPoint x="-160" y="950" />
+              <mxPoint x="-160" y="590" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="9b5qS1_Qkax_UdxktYY2-22" value="RELEASE BRANCH" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1121" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9b5qS1_Qkax_UdxktYY2-32" value="&lt;div&gt;// main sitemap&lt;/div&gt;function sendFlightDetails() {}&lt;br&gt;function sendCMPEvent() {}" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="610" y="310" width="290" height="30" as="geometry" />
+          <mxGeometry x="-140" y="640" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9b5qS1_Qkax_UdxktYY2-33" value="&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;// dev sitemap&lt;/div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;function sendFlightDetails() {}&lt;/span&gt;&lt;br style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;function sendCMPEvent() {}&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;function testFunction() {}&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="300" width="190" height="70" as="geometry" />
+          <mxGeometry x="-140" y="450" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="9b5qS1_Qkax_UdxktYY2-34" value="&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;// user story&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;function newFunction() {}&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="300" width="190" height="70" as="geometry" />
+          <mxGeometry x="460" y="580" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9b5qS1_Qkax_UdxktYY2-35" value="&lt;div&gt;// feature sitemap&lt;/div&gt;function sendFlightDetails() {}&lt;br&gt;function sendCMPEvent() {}" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="590" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9b5qS1_Qkax_UdxktYY2-36" value="&lt;div&gt;// feature sitemap&lt;/div&gt;function sendFlightDetails() {}&lt;br&gt;function sendCMPEvent() {}&lt;div&gt;function newFunction() {}&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="637" y="590" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9b5qS1_Qkax_UdxktYY2-37" value="&lt;div&gt;// release sitemap&lt;/div&gt;function sendFlightDetails() {}&lt;br&gt;function sendCMPEvent() {}&lt;div&gt;function newFunction() {}&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="785" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9b5qS1_Qkax_UdxktYY2-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9b5qS1_Qkax_UdxktYY2-38" target="9b5qS1_Qkax_UdxktYY2-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9b5qS1_Qkax_UdxktYY2-38" value="RELEASE BRANCH" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9b5qS1_Qkax_UdxktYY2-40" value="&lt;div&gt;// release sitemap&lt;/div&gt;function sendFlightDetails() {}&lt;br&gt;function sendCMPEvent() {}" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="840" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
